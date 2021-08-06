@@ -36,7 +36,11 @@ h3{
   background-color: #66BfBF;
   padding: 20px 0 20px;
 }
+.contact-me{
+  width: 50%;
+  margin: 100px auto 100px auto;
 
+}
 
 .end{
   color: #EAF6F6;
